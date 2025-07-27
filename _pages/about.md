@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://siebelschool.illinois.edu/'>University of Illinois Urbana-Champaign </a>. 
+subtitle: <a href='#'> One PR a day keeps the anxiety away.</a>. 
 profile:
   align: right
   image: IMG_3735.jpg
