@@ -121,7 +121,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/KaiZhuo Yan", "_blank");
+          window.open("https://www.linkedin.com/in/kaizhuo-yan-b91818229", "_blank");
         },
       },{
         id: 'social-scholar',
