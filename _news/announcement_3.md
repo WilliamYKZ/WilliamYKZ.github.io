@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Tiktok as Machine Learning Enginner Intern 
+Joined Tiktok as Machine Learning Enginner Intern.
