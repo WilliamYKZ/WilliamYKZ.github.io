@@ -60,7 +60,7 @@ ninja.data = [{
           title: 'Joined UIUC MSCS advised by Prof. Fan Lai',
           description: "",
           section: "News",},{id: "news-joined-tiktok-as-machine-learning-enginner-intern",
-          title: 'Joined Tiktok as Machine Learning Enginner Intern',
+          title: 'Joined Tiktok as Machine Learning Enginner Intern.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
