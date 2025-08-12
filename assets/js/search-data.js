@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/machine/learning/2025/08/10/lecture1.html";
+            window.location.href = "/2025/08/10/lecture1.html";
           
         },
       },{id: "post-a-post-with-plotly-js",
