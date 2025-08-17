@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-memory-accounting-in-machine-learning",
+        },{id: "post-how-to-use-claude-code",
+        
+          title: "How to use Claude Code",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2025/08/10/ClaudeCode.html";
+          
+        },
+      },{id: "post-memory-accounting-in-machine-learning",
         
           title: "Memory Accounting in Machine Learning",
         
